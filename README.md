@@ -94,3 +94,18 @@ View Repository
 - 🚀 Master Node.js, Express.js, MongoDB, and PostgreSQL
 - 🛠️ Build multiple real-world, problem-solving projects that strengthen my development skills
 - 💼 Gain industry experience by securing a software development internship
+<h2><b>🤝 Let's Connect</b></h2>
+
+<p align="center">
+  <a href="mailto:srideekshitha648@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/erroju-sri-deekshitha/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Erroju_Sri_Deekshitha/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="45" />
+  </a>
+</p>
