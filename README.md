@@ -54,3 +54,18 @@ and concurrency-safe booking</strong> into a single system.
 with a focus on reliable booking workflows, resource ownership, 
 and scalable backend architecture.
 </p>
+<h2><b>🎮 Featured Projects</b></h2>
+
+<h3>🕵️ Text-Based Console Hacking Game</h3>
+
+<p>
+A Python-based console game where players attempt to hack different targets by
+<strong>guessing the correct password</strong>. Players can choose between a
+<strong>PC, Bank Server, or Organization</strong> and get <strong>5 chances</strong>
+to crack the password before the attempt ends.
+</p>
+
+<p>
+🐍 Built with <strong>Python</strong>, focusing on conditional logic,
+loops, user input, password validation, and interactive console-based gameplay.
+</p>
