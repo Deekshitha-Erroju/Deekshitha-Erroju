@@ -109,3 +109,8 @@ View Repository
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="45" />
   </a>
 </p>
+<h2><b>💭 Philosophy</b></h2>
+
+<p align="center">
+  <i>"Build with purpose, learn from every challenge, and let consistent hard work shape the results."</i> 🚀
+</p>
