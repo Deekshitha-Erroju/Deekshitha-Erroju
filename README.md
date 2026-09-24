@@ -74,3 +74,9 @@ loops, user input, password validation, and interactive console-based gameplay.
 View Repository
 </a>
 </p>
+<h2><b>🏅 Achievements</b></h2>
+
+- 🧩 Solved 50+ LeetCode problems
+- 🟢 Easy: 40+
+- 🟠 Medium: 15+
+- 🚀 Continuously improving Data Structures & Algorithms skills
