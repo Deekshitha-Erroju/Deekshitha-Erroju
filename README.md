@@ -39,3 +39,18 @@
 <p>
   <img src="https://skillicons.dev/icons?i=postman,github,vscode" />
 </p>
+<h2><b>🚧 Currently Building</b></h2>
+
+<h3>🔄 SlotSync</h3>
+
+<p>
+A backend-driven resource booking platform that combines 
+<strong>resource management, reservations, waitlists, real-time availability, 
+and concurrency-safe booking</strong> into a single system.
+</p>
+
+<p>
+⚙️ Built with <strong>Node.js, Express.js, MongoDB</strong> and REST APIs, 
+with a focus on reliable booking workflows, resource ownership, 
+and scalable backend architecture.
+</p>
