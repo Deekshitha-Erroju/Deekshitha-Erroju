@@ -87,3 +87,10 @@ View Repository
     <img src="https://leetcode-stats-six.vercel.app/Erroju_Sri_Deekshitha?theme=light" alt="Deekshitha's LeetCode Stats" />
   </a>
 </p>
+<h2><b>🎯 2026 Goals</b></h2>
+
+- ⚙️ Strengthen my backend development skills and build a strong foundation in server-side engineering
+- 🧠 Maintain consistency in Data Structures & Algorithms practice and problem solving
+- 🚀 Master Node.js, Express.js, MongoDB, and PostgreSQL
+- 🛠️ Build multiple real-world, problem-solving projects that strengthen my development skills
+- 💼 Gain industry experience by securing a software development internship
