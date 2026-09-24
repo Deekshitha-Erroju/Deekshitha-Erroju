@@ -80,3 +80,10 @@ View Repository
 - 🟢 Easy: 40+
 - 🟠 Medium: 15+
 - 🚀 Continuously improving Data Structures & Algorithms skills
+<h2><b>🧠 LeetCode Status</b></h2>
+
+<p align="center">
+  <a href="https://leetcode.com/u/Erroju_Sri_Deekshitha/">
+    <img src="https://leetcode-stats-six.vercel.app/Erroju_Sri_Deekshitha?theme=light" alt="Deekshitha's LeetCode Stats" />
+  </a>
+</p>
