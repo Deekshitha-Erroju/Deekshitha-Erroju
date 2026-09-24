@@ -14,3 +14,28 @@
 - 🛠️ I enjoy building projects from scratch and turning ideas into working applications
 - 🚀 Currently exploring full-stack development while strengthening my backend fundamentals
 - 🎯 Working towards becoming a strong Software Engineer
+<h2><b>🛠️ Tech Stack</b></h2>
+
+<h3>💻 Languages</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,python,c,java" />
+</p>
+
+<h3>⚙️ Backend</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+<h3>🗄️ Databases</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+<h3>🔧 Tools</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postman,github,vscode" />
+</p>
