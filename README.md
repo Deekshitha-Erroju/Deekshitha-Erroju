@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F8BBD0&center=true&vCenter=true&width=700&height=50&lines=Backend+Developer;Problem+Solver;BTech+IT+Student;Full-Stack+Developer;DSA+Enthusiast" alt="Typing SVG" />
 </p>
-# 🚀 About Me
+<h2><b>🚀 About Me</b></h2>
 
 - 🎓 Second-year Information Technology student at VNR Vignana Jyothi Institute of Engineering and Technology
 - 💻 Passionate about Backend Development, Web Development, and building practical software
