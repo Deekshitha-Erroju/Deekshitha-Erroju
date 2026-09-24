@@ -69,3 +69,8 @@ to crack the password before the attempt ends.
 🐍 Built with <strong>Python</strong>, focusing on conditional logic,
 loops, user input, password validation, and interactive console-based gameplay.
 </p>
+<p>
+🔗 <a href="https://github.com/Deekshitha-Erroju/Text-Based-Console_Hacking-Game">
+View Repository
+</a>
+</p>
